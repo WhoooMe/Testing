@@ -113,18 +113,9 @@
   </tr>
 </table>
 
-<!-- Row 3: lebar penuh -->
-<div align="center">
-  <img width="100%" alt="Grafik aktivitas kontribusi GitHub dari waktu ke waktu" src="https://github-readme-activity-graph.vercel.app/graph?username=WhoooMe&bg_color=0D1117&color=58A6FF&line=8B7CF6&point=56D4C5&area=true&area_color=58A6FF&hide_border=true&title_color=58A6FF">
-</div>
-
-<!-- OPSIONAL: aktifkan jika layout masih terasa lega
 <div align="center">
   <img alt="Trofi pencapaian GitHub" src="https://github-profile-trophy.vercel.app/?username=WhoooMe&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
 </div>
--->
-
-<sub>Widget tidak muncul? Lihat statistik langsung di <a href="https://github.com/WhoooMe">github.com/WhoooMe</a>. Layanan gratis ini kadang kena rate limit.</sub>
 
 <br>
 
@@ -139,7 +130,7 @@
 
 **[PLACEHOLDER: Nama Proyek 1]**
 
-[PLACEHOLDER: deskripsi satu atau dua kalimat tentang apa yang dibuat dan masalah apa yang diselesaikan]
+[PLACEHOLDER: ...]
 
 `[Teknologi]` `[Teknologi]` `[Teknologi]`
 
@@ -150,7 +141,7 @@
 
 **[PLACEHOLDER: Nama Proyek 2]**
 
-[PLACEHOLDER: deskripsi satu atau dua kalimat]
+[PLACEHOLDER: ...]
 
 `[Teknologi]` `[Teknologi]` `[Teknologi]`
 
@@ -161,7 +152,7 @@
 
 **[PLACEHOLDER: Nama Proyek 3]**
 
-[PLACEHOLDER: deskripsi satu atau dua kalimat]
+[PLACEHOLDER: ...]
 
 `[Teknologi]` `[Teknologi]` `[Teknologi]`
 
