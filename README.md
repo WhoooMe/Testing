@@ -31,14 +31,6 @@
   <tr>
     <td width="58%" valign="top">
 
-**Mahasiswa Teknologi Informasi yang penasaran dengan cara kerja sesuatu.**
-
-- Kuliah di jurusan Teknologi Informasi, belajar paling cepat lewat proyek nyata, bukan cuma teori.
-- Tertarik pada software development dan _system internals_: apa yang sebenarnya terjadi di bawah kode yang saya tulis.
-- Menjelajahi networking dan cybersecurity, termasuk soal-soal CTF.
-- Suka hardware yang bisa disentuh: embedded systems dan IoT.
-- Pernah jadi gamer, sekarang lebih tertarik membuat game dan pixel art-nya.
-
   </td>
     <td width="42%" valign="top">
 
@@ -59,44 +51,54 @@
 
 ## Tech Stack & Tools
 
-<!-- Badge gelap = dipakai. Badge berlabel "learning" = masih dipelajari. -->
+<!-- Badge menggunakan style for-the-badge dengan warna brand agar ikon lebih jelas. -->
 
 **Programming Languages**
 
-<img src="https://img.shields.io/badge/C-1C2333?style=flat-square&logo=c&logoColor=58A6FF" alt="C">
-<img src="https://img.shields.io/badge/C++-1C2333?style=flat-square&logo=cplusplus&logoColor=58A6FF" alt="C++">
-<img src="https://img.shields.io/badge/Python-1C2333?style=flat-square&logo=python&logoColor=58A6FF" alt="Python">
-<img src="https://img.shields.io/badge/Java-1C2333?style=flat-square&logo=openjdk&logoColor=58A6FF" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-1C2333?style=flat-square&logo=javascript&logoColor=58A6FF" alt="JavaScript">
-<img src="https://img.shields.io/badge/PHP-1C2333?style=flat-square&logo=php&logoColor=58A6FF" alt="PHP">
-<img src="https://img.shields.io/badge/Bash-1C2333?style=flat-square&logo=gnubash&logoColor=58A6FF" alt="Bash">
-<img src="https://img.shields.io/badge/Lua-learning-8B7CF6?style=flat-square&labelColor=1C2333&logo=lua&logoColor=8B7CF6" alt="Lua, sedang dipelajari">
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Lua-Learning-000080?style=for-the-badge&labelColor=1C2333&logo=lua&logoColor=white" alt="Lua, sedang dipelajari">
+</p>
 
 **Web Development**
 
-<img src="https://img.shields.io/badge/HTML5-1C2333?style=flat-square&logo=html5&logoColor=56D4C5" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1C2333?style=flat-square&logo=css&logoColor=56D4C5" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-1C2333?style=flat-square&logo=javascript&logoColor=56D4C5" alt="JavaScript">
-<img src="https://img.shields.io/badge/Laravel-1C2333?style=flat-square&logo=laravel&logoColor=56D4C5" alt="Laravel">
-<img src="https://img.shields.io/badge/Tailwind_CSS-1C2333?style=flat-square&logo=tailwindcss&logoColor=56D4C5" alt="Tailwind CSS">
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+</p>
 
 **Networking & Infrastructure**
 
-<img src="https://img.shields.io/badge/Cisco-1C2333?style=flat-square&logo=cisco&logoColor=8B7CF6" alt="Cisco">
-<img src="https://img.shields.io/badge/MikroTik-1C2333?style=flat-square&logo=mikrotik&logoColor=8B7CF6" alt="MikroTik">
+<p>
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco">
+  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik">
+</p>
 
 **Embedded Systems & IoT**
 
-<img src="https://img.shields.io/badge/Arduino-1C2333?style=flat-square&logo=arduino&logoColor=56D4C5" alt="Arduino">
-<img src="https://img.shields.io/badge/ESP32-1C2333?style=flat-square&logo=espressif&logoColor=56D4C5" alt="ESP32">
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+</p>
 
 **Game Development & Creative Tools**
 
-<img src="https://img.shields.io/badge/Godot_Engine-1C2333?style=flat-square&logo=godotengine&logoColor=58A6FF" alt="Godot Engine">
-<img src="https://img.shields.io/badge/Unity-1C2333?style=flat-square&logo=unity&logoColor=58A6FF" alt="Unity">
-<img src="https://img.shields.io/badge/Aseprite-1C2333?style=flat-square&logo=aseprite&logoColor=58A6FF" alt="Aseprite">
-<img src="https://img.shields.io/badge/Asset_Studio-1C2333?style=flat-square&logoColor=58A6FF" alt="Asset Studio">
-<img src="https://img.shields.io/badge/Roblox_Studio-learning-8B7CF6?style=flat-square&labelColor=1C2333&logo=roblox&logoColor=8B7CF6" alt="Roblox Studio, sedang dipelajari">
+<p>
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot Engine">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite">
+  <img src="https://img.shields.io/badge/Asset_Studio-607D8B?style=for-the-badge&logoColor=white" alt="Asset Studio">
+  <img src="https://img.shields.io/badge/Roblox_Studio-Learning-6C63FF?style=for-the-badge&labelColor=1C2333&logo=roblox&logoColor=white" alt="Roblox Studio, sedang dipelajari">
+</p>
 
 <br>
 
