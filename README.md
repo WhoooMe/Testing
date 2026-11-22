@@ -38,6 +38,7 @@
 <br>
 
 <!-- ============================ B. ABOUT ============================ -->
+
 ## About Me
 
 <table>
@@ -47,7 +48,7 @@
 **Mahasiswa Teknologi Informasi yang penasaran dengan cara kerja sesuatu.**
 
 - Kuliah di jurusan Teknologi Informasi, belajar paling cepat lewat proyek nyata, bukan cuma teori.
-- Tertarik pada software development dan *system internals*: apa yang sebenarnya terjadi di bawah kode yang saya tulis.
+- Tertarik pada software development dan _system internals_: apa yang sebenarnya terjadi di bawah kode yang saya tulis.
 - Menjelajahi networking dan cybersecurity, termasuk soal-soal CTF.
 - Suka hardware yang bisa disentuh: embedded systems dan IoT.
 - Pernah jadi gamer, sekarang lebih tertarik membuat game dan pixel art-nya.
@@ -58,7 +59,7 @@
 **Currently Exploring**
 
 - Game development dengan Godot dan Unity
-- Roblox Studio dan Lua scripting *(baru belajar)*
+- Roblox Studio dan Lua scripting _(baru belajar)_
 - Pixel art dan pembuatan aset game
 - System programming dan networking
 
@@ -69,6 +70,7 @@
 <br>
 
 <!-- ========================= C. TECH STACK ========================= -->
+
 ## Tech Stack & Tools
 
 <!-- Badge gelap = dipakai. Badge berlabel "learning" = masih dipelajari. -->
@@ -113,6 +115,7 @@
 <br>
 
 <!-- ===================== D. GITHUB STATS DASHBOARD ===================== -->
+
 ## GitHub Dashboard
 
 <!--
@@ -162,6 +165,7 @@
 <br>
 
 <!-- ======================= E. FEATURED PROJECTS ======================= -->
+
 ## Featured Projects
 
 <!-- Salin satu <td> untuk menambah proyek. Isi semua [PLACEHOLDER]. -->
@@ -206,6 +210,7 @@
 <br>
 
 <!-- ========================== F. FIND ME ON ========================== -->
+
 ## Find Me On
 
 <p>
