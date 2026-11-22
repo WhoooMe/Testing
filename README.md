@@ -113,10 +113,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img alt="Trofi pencapaian GitHub" src="https://github-profile-trophy.vercel.app/?username=WhoooMe&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
-</div>
-
 <br>
 
 <!-- ======================= E. FEATURED PROJECTS ======================= -->
