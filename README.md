@@ -1,15 +1,3 @@
-<!--
-  =====================================================================
-  THE DIGITAL WORKSHOP — Engineering Systems. Building Worlds.
-  =====================================================================
-  CARA EDIT CEPAT:
-  1. Cari & ganti semua  YOUR_USERNAME  dengan username GitHub kamu.
-  2. Cari  [PLACEHOLDER]  dan isi dengan data aslimu.
-  3. Letakkan banner di  assets/profile-banner.gif
-  Palet: bg 0D1117 | surface 161B22 | card 1C2333 | biru 58A6FF
-         ungu 8B7CF6 | teal 56D4C5 | teks E6EDF3 / 8B949E | border 30363D
--->
-
 <!-- ============================ A. HERO ============================ -->
 <div align="center">
 
@@ -22,8 +10,6 @@
   <b>Software Developer</b> &nbsp;·&nbsp;
   <b>Aspiring Game Developer</b>
 </p>
-
-<p><i>Suka tahu apa yang terjadi di balik layar, lalu membangun dunia di atasnya.</i></p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square&labelColor=161B22" alt="Jumlah kunjungan profil GitHub">
