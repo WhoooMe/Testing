@@ -8,13 +8,13 @@
 <p>
   <b>Information Technology Student</b> &nbsp;·&nbsp;
   <b>Software Developer</b> &nbsp;·&nbsp;
-  <b>Aspiring Game Developer</b>
+  <b>Game Developer</b>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=58A6FF&style=flat-square&labelColor=161B22" alt="Jumlah kunjungan profil GitHub">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat-square&color=8B7CF6&labelColor=161B22&logo=github&logoColor=E6EDF3" alt="Jumlah followers GitHub">
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=WhoooMe&label=Profile%20Views&color=58A6FF&style=flat-square&labelColor=161B22" alt="Jumlah kunjungan profil GitHub">
+  <img src="https://img.shields.io/github/followers/WhoooMe?label=Followers&style=flat-square&color=8B7CF6&labelColor=161B22&logo=github&logoColor=E6EDF3" alt="Jumlah followers GitHub">
+  <a href="https://github.com/WhoooMe?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-explore-56D4C5?style=flat-square&labelColor=161B22&logo=github&logoColor=E6EDF3" alt="Lihat seluruh repository GitHub">
   </a>
 </p>
@@ -113,13 +113,13 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/YOUR_USERNAME">
-        <img width="100%" alt="Statistik GitHub: stars, commits, pull requests, issues, dan kontribusi" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=1C2333&title_color=58A6FF&icon_color=56D4C5&text_color=E6EDF3&border_color=30363D">
+      <a href="https://github.com/WhoooMe">
+        <img width="100%" alt="Statistik GitHub: stars, commits, pull requests, issues, dan kontribusi" src="https://github-readme-stats.vercel.app/api?username=WhoooMe&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=1C2333&title_color=58A6FF&icon_color=56D4C5&text_color=E6EDF3&border_color=30363D">
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-        <img width="100%" alt="Bahasa pemrograman yang paling sering digunakan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&bg_color=1C2333&title_color=58A6FF&text_color=E6EDF3&border_color=30363D">
+      <a href="https://github.com/WhoooMe?tab=repositories">
+        <img width="100%" alt="Bahasa pemrograman yang paling sering digunakan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhoooMe&layout=compact&langs_count=8&bg_color=1C2333&title_color=58A6FF&text_color=E6EDF3&border_color=30363D">
       </a>
     </td>
   </tr>
@@ -127,26 +127,26 @@
   <!-- Row 2 -->
   <tr>
     <td width="50%" align="center">
-      <img width="100%" alt="Streak kontribusi GitHub: streak saat ini, streak terpanjang, total kontribusi" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&background=1C2333&border=30363D&ring=56D4C5&fire=8B7CF6&currStreakLabel=58A6FF&currStreakNum=E6EDF3&sideLabels=8B949E&sideNums=E6EDF3&dates=8B949E&stroke=30363D">
+      <img width="100%" alt="Streak kontribusi GitHub: streak saat ini, streak terpanjang, total kontribusi" src="https://streak-stats.demolab.com/?user=WhoooMe&background=1C2333&border=30363D&ring=56D4C5&fire=8B7CF6&currStreakLabel=58A6FF&currStreakNum=E6EDF3&sideLabels=8B949E&sideNums=E6EDF3&dates=8B949E&stroke=30363D">
     </td>
     <td width="50%" align="center">
-      <img width="100%" alt="Ringkasan kontribusi: commits, pull requests, issues, dan review" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark">
+      <img width="100%" alt="Ringkasan kontribusi: commits, pull requests, issues, dan review" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhoooMe&theme=github_dark">
     </td>
   </tr>
 </table>
 
 <!-- Row 3: lebar penuh -->
 <div align="center">
-  <img width="100%" alt="Grafik aktivitas kontribusi GitHub dari waktu ke waktu" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=58A6FF&line=8B7CF6&point=56D4C5&area=true&area_color=58A6FF&hide_border=true&title_color=58A6FF">
+  <img width="100%" alt="Grafik aktivitas kontribusi GitHub dari waktu ke waktu" src="https://github-readme-activity-graph.vercel.app/graph?username=WhoooMe&bg_color=0D1117&color=58A6FF&line=8B7CF6&point=56D4C5&area=true&area_color=58A6FF&hide_border=true&title_color=58A6FF">
 </div>
 
 <!-- OPSIONAL: aktifkan jika layout masih terasa lega
 <div align="center">
-  <img alt="Trofi pencapaian GitHub" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
+  <img alt="Trofi pencapaian GitHub" src="https://github-profile-trophy.vercel.app/?username=WhoooMe&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8">
 </div>
 -->
 
-<sub>Widget tidak muncul? Lihat statistik langsung di <a href="https://github.com/YOUR_USERNAME">github.com/YOUR_USERNAME</a>. Layanan gratis ini kadang kena rate limit.</sub>
+<sub>Widget tidak muncul? Lihat statistik langsung di <a href="https://github.com/WhoooMe">github.com/WhoooMe</a>. Layanan gratis ini kadang kena rate limit.</sub>
 
 <br>
 
@@ -165,7 +165,7 @@
 
 `[Teknologi]` `[Teknologi]` `[Teknologi]`
 
-[Repository](https://github.com/YOUR_USERNAME/[PLACEHOLDER-repo]) · [Demo]([PLACEHOLDER-demo-url])
+[Repository](https://github.com/WhoooMe/[PLACEHOLDER-repo]) · [Demo]([PLACEHOLDER-demo-url])
 
   </td>
     <td width="33%" valign="top">
@@ -176,7 +176,7 @@
 
 `[Teknologi]` `[Teknologi]` `[Teknologi]`
 
-[Repository](https://github.com/YOUR_USERNAME/[PLACEHOLDER-repo]) · [Demo]([PLACEHOLDER-demo-url])
+[Repository](https://github.com/WhoooMe/[PLACEHOLDER-repo]) · [Demo]([PLACEHOLDER-demo-url])
 
   </td>
     <td width="33%" valign="top">
@@ -187,7 +187,7 @@
 
 `[Teknologi]` `[Teknologi]` `[Teknologi]`
 
-[Repository](https://github.com/YOUR_USERNAME/[PLACEHOLDER-repo]) · [Demo]([PLACEHOLDER-demo-url])
+[Repository](https://github.com/WhoooMe/[PLACEHOLDER-repo]) · [Demo]([PLACEHOLDER-demo-url])
 
   </td>
   </tr>
@@ -200,7 +200,7 @@
 ## Find Me On
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-1C2333?style=flat-square&logo=github&logoColor=58A6FF" alt="Profil GitHub"></a>
+  <a href="https://github.com/WhoooMe"><img src="https://img.shields.io/badge/GitHub-1C2333?style=flat-square&logo=github&logoColor=58A6FF" alt="Profil GitHub"></a>
   <a href="[PLACEHOLDER-linkedin-url]"><img src="https://img.shields.io/badge/LinkedIn-1C2333?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="Profil LinkedIn"></a>
   <a href="mailto:[PLACEHOLDER-email]"><img src="https://img.shields.io/badge/Email-1C2333?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Kirim email"></a>
   <a href="[PLACEHOLDER-portfolio-url]"><img src="https://img.shields.io/badge/Portfolio-1C2333?style=flat-square&logo=googlechrome&logoColor=58A6FF" alt="Website portfolio"></a>
