@@ -34,13 +34,6 @@
   </td>
     <td width="42%" valign="top">
 
-**Currently Exploring**
-
-- Game development dengan Godot dan Unity
-- Roblox Studio dan Lua scripting _(baru belajar)_
-- Pixel art dan pembuatan aset game
-- System programming dan networking
-
   </td>
   </tr>
 </table>
